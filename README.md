@@ -24,7 +24,7 @@
 </p>
 <div width="50%" align="center" >
      
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=arpittaneja&theme=xcode)]
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=arpittaneja&theme=xcode)]
 
 </div>
 
