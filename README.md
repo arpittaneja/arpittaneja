@@ -36,7 +36,8 @@
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java.png"/> </a> 
-    
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpittaneja&label=Profile%20views&color=129e00&style=plastic" alt="arpittaneja" /> 
+<img src="https://img.shields.io/github/stars/arpittaneja" alt="Stars Badge"/></a></p>
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp) -->
 <!-- ![Java]()
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
