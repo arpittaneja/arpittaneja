@@ -22,7 +22,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpittaneja&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittaneja&theme=tokyonight" />
 </p>
-<div align="center">
+<div align="center" width="75%">
      
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=arpittaneja&theme=xcode)](https://git.io/arpittaneja)
 
