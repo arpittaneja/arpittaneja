@@ -29,9 +29,9 @@
 </div>
 
 ### Language :
-![JavaScript](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=css)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
+![JavaScript]("https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png")
+<!-- ![HTML](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=html) -->
+<!-- ![CSS](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=css) -->
+<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp) -->
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
