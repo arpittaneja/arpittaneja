@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <a href="#">
   
 </a> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpittaneja&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arpittaneja&theme=tokyonight" />
 </p>
