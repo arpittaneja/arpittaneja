@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-##I’m currently learning Web Development and DSA
+## I’m currently learning Web Development and DSA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
