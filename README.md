@@ -27,3 +27,11 @@
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=arpittaneja&theme=xcode)](https://git.io/arpittaneja)
 
 </div>
+
+### Language :
+![JavaScript](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=html)
+![CSS](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=css)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
