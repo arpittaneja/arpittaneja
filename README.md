@@ -1,7 +1,7 @@
 
-<!--
-**arpittaneja/arpittaneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- **arpittaneja/arpittaneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arpit</h1>
 Here are some ideas to get you started:
 
