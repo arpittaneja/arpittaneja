@@ -33,6 +33,7 @@
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a> 
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java.png"/> </a> 
     
