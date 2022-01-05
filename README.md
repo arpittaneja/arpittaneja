@@ -38,7 +38,7 @@
 <a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java.png"/> </a> 
 
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/arpit-taneja-6947a21ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
