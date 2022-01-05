@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!-- 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a> 
   </p>
-  
+   -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
