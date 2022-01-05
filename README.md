@@ -29,17 +29,17 @@
 </div>
 
 ### Languages :
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a> 
-<a href="" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a> 
+<a href=""> <img src="https://img.icons8.com/color/50/000000/java.png"/> </a> 
 
 
 ### Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/arpit-taneja-6947a21ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/arpit-taneja-6947a21ba/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpittaneja&label=Profile%20views&color=129e00&style=plastic" alt="arpittaneja" /> 
