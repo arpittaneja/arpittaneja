@@ -24,7 +24,6 @@
 </p>
 <div width="50%" align="center" >
      
-<!-- ![My github activity graph]() -->
 <a href="#/"> <img src="https://activity-graph.herokuapp.com/graph?username=arpittaneja&theme=xcode"/> </a> 
 </div>
 
