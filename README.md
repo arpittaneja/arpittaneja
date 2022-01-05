@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a> -->
 <!--   <img align="center "src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" /> -->
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpittaneja&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arpittaneja&show_icons=true&theme=tokyonight" />
