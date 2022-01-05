@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arpit Taneja</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arpit Taneja!</h1>
 <!-- **arpittaneja/arpittaneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-I’m currently learning Web Development and DSA
+##I’m currently learning Web Development and DSA
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpittaneja&show_icons=true&theme=tokyonight&layout=compact" />
